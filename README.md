@@ -1,1 +1,1 @@
-# django_basics1
+DJANGO BASICS
